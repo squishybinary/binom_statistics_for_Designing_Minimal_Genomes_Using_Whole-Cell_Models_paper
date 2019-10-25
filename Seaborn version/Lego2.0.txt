@@ -1,0 +1,5 @@
+Lego2.0 - three scripts - 
+Zeroth (initial input)= create single gene ko from list of genes, grouping and producing scripts, putting results in text file (like last iteration).
+First (division step / deletion segments) = create deletion segments from list of NE / E and reverse NE in txt files, output segments bash scripts and text files. 
+Lego version of bash script and run graphs to create text files properly (i.e. results of deletion segments) and instructions for how to use (manually upload and execute, download result txt files). 
+Second (combination step) = (/run graph inserts into specified text file in folder, download), rank results, include combination logic, produce combination scripts through % calculations and analysing NE txt file (name according to % and letters (90%a), name scripts according to deletion size.
