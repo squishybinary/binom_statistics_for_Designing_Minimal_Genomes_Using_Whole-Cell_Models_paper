@@ -1,2 +1,2 @@
-# binom_statistics_for_Designing_Minimal_Genomes_Using_Whole-Cell_Models_paper
+# binom statistics for Designing Minimal Genomes Using Whole-Cell Models paper
 Statistics for classifying single gene knockout that show multiple phenotypes. Uses Binom R Package to perform binomial proportion confidence intervals. Graphing with R and Seaborn (python).
